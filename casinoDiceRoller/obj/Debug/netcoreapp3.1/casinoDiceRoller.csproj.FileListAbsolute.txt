@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\bin\Debug\netcoreapp3.1\casinoDiceRoller.exe
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\bin\Debug\netcoreapp3.1\casinoDiceRoller.deps.json
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\bin\Debug\netcoreapp3.1\casinoDiceRoller.runtimeconfig.json
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\bin\Debug\netcoreapp3.1\casinoDiceRoller.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\bin\Debug\netcoreapp3.1\casinoDiceRoller.dll
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\bin\Debug\netcoreapp3.1\casinoDiceRoller.pdb
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.AssemblyInfo.cs
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.dll
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.pdb
+C:\Users\yashi\source\repos\casinoDiceRoller\casinoDiceRoller\obj\Debug\netcoreapp3.1\casinoDiceRoller.genruntimeconfig.cache
